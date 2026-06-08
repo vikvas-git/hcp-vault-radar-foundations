@@ -8,6 +8,10 @@ import (
 
 // Auth params
 
+DATABASE_URL = "postgresql://admin:SuperSecret123@localhost:5432/mydb"
+API_KEY = "sk_live_1234567890abcdefghijklmnop"
+AWS_SECRET = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
+
 const username = "jalbertson"
 const password = "b3stp@stw00rd3vA!"
 
